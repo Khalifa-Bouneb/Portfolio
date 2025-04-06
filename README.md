@@ -1,1 +1,1 @@
-# cv
+This is my personal portfolio, giving a quick overview of who I am, my skills in front-end, back-end, and database development, as well as some of my social involvement in clubs and team projects
